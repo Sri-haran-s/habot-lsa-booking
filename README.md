@@ -1,6 +1,6 @@
 # HabotConnect LSA Service Booking Backend
 
->  **Python Backend Developer** | 
+>  **Python Backend Developer | 
 > **Candidate:** Sriharan S | **Email:** sriharan1922@gmail.com | **Phone:** 7010784201 
 > **Repository:** [github.com/yourusername/habot-lsa-booking](https://github.com/Sri-haran-s/habot-lsa-booking)
 
