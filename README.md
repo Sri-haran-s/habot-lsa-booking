@@ -1,7 +1,7 @@
 # HabotConnect LSA Service Booking Backend
 
 > **Hiring Project | Python Backend Developer**  
-> **Candidate:** [Your Full Name] | **Email:** [your.email@example.com] | **Phone:** [Your Phone]  
+> **Candidate:** Sriharan S | **Email:** sriharan1922@gmail.com | **Phone:** 7010784201 
 > **Repository:** [github.com/yourusername/habot-lsa-booking](https://github.com/yourusername/habot-lsa-booking)
 
 ---
